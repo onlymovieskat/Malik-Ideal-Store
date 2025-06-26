@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973569487950",
+    "project_id": "malik-ideal-store",
+    "storage_bucket": "malik-ideal-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973569487950:android:9014a4bd0b46ceb9a77f1f",
+        "android_client_info": {
+          "package_name": "com.example.malik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVubfR4hfpc65wA0FXDzHH02taQEnPN-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

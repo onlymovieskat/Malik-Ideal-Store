@@ -1,0 +1,24 @@
+name: malik_store
+description: A sample Flutter e-commerce app with Firebase
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: 
+  firebase_auth: 
+  cloud_firestore: 
+  provider: 
+  image_picker: ^1.1.2
+  firebase_storage: ^12.4.6
+  firestore_ui: ^1.30.0
+  firebase_database: ^11.3.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/example/
